@@ -1,0 +1,170 @@
+[
+  {
+    "ArticleNumber": "1012001",
+    "Brand": "Remington",
+    "AverageRating": {
+      "NumberOfReviews": 20,
+      "AverageRating": 3.8505
+    },
+    "Detail": {
+      "MaxPerOrder": 10,
+      "SalesStartDate": "2020-03-10T00:00:00",
+      "SalesEndDate": "2030-01-01T00:00:00"
+    },
+    "IsEnabled": true,
+    "Texts": [
+      {
+        "Type": "Subtitle",
+        "Value": "Locka och platta med roterande varmluftsborste"
+      },
+      {
+        "Type": "Title",
+        "Value": "AS8606 Curl & Straight Confidence Rotating Hot Air Styler"
+      },
+      {
+        "Type": "Description",
+        "Value": "Remington Curl & Straight Confidence AirStyler AS8606 är en roterande varmluftsborste kommer med mångsidiga tillbehör som är utformad för att du enkelt ska kunna styla ditt hår samtidigt som du tor..."
+      }
+    ],
+    "Usps": [
+      {
+        "Id": 641112,
+        "Text": "800 W effekt",
+        "SortOrder": 1
+      },
+      {
+        "Id": 641115,
+        "Text": "Tillbehör för lockning och plattning",
+        "SortOrder": 2
+      },
+      {
+        "Id": 641116,
+        "Text": "2 värme- och hastighetslägen",
+        "SortOrder": 3
+      },
+      {
+        "Id": 641113,
+        "Text": "Roterar åt båda håll",
+        "SortOrder": 4
+      },
+      {
+        "Id": 641114,
+        "Text": "Jonfuktion",
+        "SortOrder": 5
+      }
+    ],
+    "Files": [
+      {
+        "Id": 376643,
+        "Src": "https://www.netonnet.se/GetFile/ProductImagePrimary/hem-fritid/personvard/harvard-styling/varmluftsborste/remington-as8606-curl-straight-confidence-rotating-hot-air-styler(1012001)_376648_7_Normal_Extra.webp",
+        "FileName": "df72d66c-52a2-43f6-81f8-1065c5961127",
+        "Extension": "jpg",
+        "AltDesc": "Remington AS8606 Curl & Straight Confidence Rotating Hot Air Styler",
+        "Title": null,
+        "SortOrder": 1,
+        "Type": "Primary"
+      },
+      {
+        "Id": 376644,
+        "Src": "https://www.netonnet.se/GetFile/ProductImage/hem-fritid/personvard/harvard-styling/varmluftsborste/remington-as8606-curl-straight-confidence-rotating-hot-air-styler(1012001)_376649_7_Normal_Extra-5.webp",
+        "FileName": "c6cff402-ca71-4981-82cb-72a684edc2f3",
+        "Extension": "jpg",
+        "AltDesc": "Remington AS8606 Curl & Straight Confidence Rotating Hot Air Styler",
+        "Title": null,
+        "SortOrder": 2,
+        "Type": "Secondary"
+      }
+    ],
+    "InventoryInternet": {
+      "Status": "OutOfStock"
+    },
+    "InventoryShops": {
+      "ShopsWithStock": 7,
+      "Status": "InStock"
+    }
+  },
+  {
+    "ArticleNumber": "1025066",
+    "Brand": "Sony XR-77A80K",
+    "AverageRating": {
+      "NumberOfReviews": 109,
+      "AverageRating": 4.6225
+    },
+    "Detail": {
+      "MaxPerOrder": 50,
+      "SalesStartDate": "2021-05-01T00:00:00",
+      "SalesEndDate": "2031-05-01T00:00:00"
+    },
+    "IsEnabled": true,
+    "Texts": [
+      {
+        "Type": "Subtitle",
+        "Value": "XR-77A80K"
+      },
+      {
+        "Type": "Title",
+        "Value": "4K OLED TV med bred färgskala & djup kontrast"
+      },
+      {
+        "Type": "Description",
+        "Value": "Med Sonys 4K OLED-TV A80K får du med dig biokänslan hem till ditt vardagsrum. "
+      }
+    ],
+    "Usps": [
+      {
+        "Id": 741112,
+        "Text": "3D-surroundljud",
+        "SortOrder": 4
+      },
+      {
+        "Id": 741115,
+        "Text": "Många smarta gamingfunktioner",
+        "SortOrder": 2
+      },
+      {
+        "Id": 741116,
+        "Text": "Tidlös design med smal ram",
+        "SortOrder": 5
+      },
+      {
+        "Id": 741113,
+        "Text": "Google Smart TV",
+        "SortOrder": 1
+      },
+      {
+        "Id": 741114,
+        "Text": "HDMI 2.1 & 120 Hz i 4K",
+        "SortOrder": 3
+      }
+    ],
+    "Files": [
+      {
+        "Id": 776643,
+        "Src": "https://www.netonnet.se/GetFile/ProductImagePrimary/tv/oled/sony-xr-77a80k(1025066)_509144_1_Normal_Extra.webp",
+        "FileName": "gh72d66c-52a2-43f6-81f8-1065c5961127",
+        "Extension": "jpg",
+        "AltDesc": "OLED-TV",
+        "Title": null,
+        "SortOrder": 1,
+        "Type": "Primary"
+      },
+      {
+        "Id": 776644,
+        "Src": "https://www.netonnet.se/GetFile/ProductImage/tv/oled/sony-xr-77a80k(1025066)_509148_6_Normal_Extra-2.webp",
+        "FileName": "a9cff402-ca71-4981-82cb-72a684edc2f3",
+        "Extension": "jpg",
+        "AltDesc": "Smal design",
+        "Title": null,
+        "SortOrder": 2,
+        "Type": "Secondary"
+      }
+    ],
+    "InventoryInternet": {
+      "Status": "InStock"
+    },
+    "InventoryShops": {
+      "ShopsWithStock": 17,
+      "Status": "InStock"
+    }
+  }
+]
